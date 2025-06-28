@@ -94,3 +94,5 @@ Now you can chat between multiple tabs or devices!
 * 🎨 Themes or dark mode
 * 🔐 Login system (with a database)
 
+# OUTPUT:
+![Image](https://github.com/user-attachments/assets/faefe6d9-769a-444f-bd73-1a1420f1caf4)
